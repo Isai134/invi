@@ -1,0 +1,19 @@
+2026-03-18 23:39:02,890 | INFO | invi_pipeline | main:27 | Iniciando pipeline demo INVI
+2026-03-18 23:39:06,276 | INFO | invi_pipeline | catastro_processor:35 | Catastro cargado: catastro2021_BENITO_JUAREZ.csv (216309 filas)
+2026-03-18 23:39:06,976 | INFO | invi_pipeline | geospatial_analysis:36 | Shortlist geoespacial generada: 518 predios
+2026-03-18 23:39:07,014 | INFO | invi_pipeline | property_scorer:44 | Scoring completado para 518 predios
+2026-03-18 23:39:07,053 | WARNING | invi_pipeline | main:57 | No fue posible exportar GeoJSON: 'DataFrame' object has no attribute 'to_file'
+2026-03-18 23:39:40,958 | INFO | invi_pipeline | main:27 | Iniciando pipeline demo INVI
+2026-03-18 23:39:44,740 | INFO | invi_pipeline | catastro_processor:35 | Catastro cargado: catastro2021_BENITO_JUAREZ.csv (216309 filas)
+2026-03-18 23:39:45,536 | INFO | invi_pipeline | geospatial_analysis:36 | Shortlist geoespacial generada: 518 predios
+2026-03-18 23:39:45,582 | INFO | invi_pipeline | property_scorer:44 | Scoring completado para 518 predios
+2026-03-18 23:39:45,620 | INFO | invi_pipeline | main:59 | No hay geometría disponible; se omite exportación GeoJSON
+2026-03-18 23:39:45,621 | INFO | invi_pipeline | main:66 | Pipeline finalizado. Shortlist: 518 predios
+2026-03-18 17:54:57,186 | INFO | invi_pipeline | main:27 | Iniciando pipeline demo INVI
+2026-03-18 17:54:57,753 | INFO | invi_pipeline | catastro_processor:35 | Catastro cargado: catastro2021_TLALPAN.csv (139958 filas)
+2026-03-18 17:55:09,254 | INFO | invi_pipeline | main:27 | Iniciando pipeline demo INVI
+2026-03-18 17:55:09,797 | INFO | invi_pipeline | catastro_processor:35 | Catastro cargado: catastro2021_TLALPAN.csv (139958 filas)
+2026-03-18 17:55:09,937 | INFO | invi_pipeline | geospatial_analysis:36 | Shortlist geoespacial generada: 3918 predios
+2026-03-18 17:55:09,958 | INFO | invi_pipeline | property_scorer:44 | Scoring completado para 3918 predios
+2026-03-18 17:55:10,015 | INFO | invi_pipeline | main:59 | No hay geometría disponible; se omite exportación GeoJSON
+2026-03-18 17:55:10,015 | INFO | invi_pipeline | main:66 | Pipeline finalizado. Shortlist: 3918 predios
